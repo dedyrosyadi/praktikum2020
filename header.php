@@ -4,7 +4,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" href="./../css/bootstrap.min.css">
+	<base href="/">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<title>Praktikum 2019</title>
 	<style>
 		html {
@@ -43,10 +44,10 @@
 						<a class="nav-link" href="/">Beranda</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="mahasiswa_show.php">Data Mahasiswa</a>
+						<a class="nav-link" href="/mahasiswa/mahasiswa_show.php">Data Mahasiswa</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="profile.php">Profil Penulis</a>
+						<a class="nav-link" href="/profile.php">Profil Penulis</a>
 					</li>
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
