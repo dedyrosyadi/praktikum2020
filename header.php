@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="./../css/bootstrap.min.css">
 	<title>Praktikum 2019</title>
 	<style>
 		html {
@@ -40,7 +40,7 @@
 			<div class="collapse navbar-collapse" id="navbarNavDropdown">
 				<ul class="navbar-nav">
 					<li class="nav-item">
-						<a class="nav-link" href="./">Beranda</a>
+						<a class="nav-link" href="/">Beranda</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="mahasiswa_show.php">Data Mahasiswa</a>
