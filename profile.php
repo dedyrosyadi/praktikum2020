@@ -34,16 +34,16 @@
 						<td align="right" width="50%"><strong>Media Sosial :</strong></td>
 						<td align="left" width="50%">
 							<a href="http://facebook.com/mdedyrosyadi" target="_blank" style="text-decoration:none;">
-								<img src="img/medsos/facebook.svg" width="30" alt="facebook">	
+								<img src="img/medsos/facebook.svg" width="30" alt="facebook">
 							</a>
 							<a href="http://instagram.com/dedyrosyadi" target="_blank" style="text-decoration:none;">
-								<img src="img/medsos/instagram.svg" width="30" alt="instagram">	
+								<img src="img/medsos/instagram.svg" width="30" alt="instagram">
 							</a>
 							<a href="http://twitter.com/dedyrosyadi" target="_blank" style="text-decoration:none;">
-								<img src="img/medsos/twitter.svg" width="30" alt="twitter">	
+								<img src="img/medsos/twitter.svg" width="30" alt="twitter">
 							</a>
 							<a href="http://linkedin.com/in/dedyrosyadi" target="_blank">
-								<img src="img/medsos/linkedin.svg" width="30" alt="linkedin">	
+								<img src="img/medsos/linkedin.svg" width="30" alt="linkedin">
 							</a>
 						</td>
 					</tr>
